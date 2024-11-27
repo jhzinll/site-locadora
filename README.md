@@ -31,6 +31,7 @@ O objetivo principal é proporcionar uma experiência intuitiva e amigável para
    git clone git@github.com:jhzinll/site-locadora.git
 
 URL padrão: http://localhost:3000
+
 📝 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
